@@ -80,7 +80,6 @@ section {
     border-image-slice: 1;
 }
 
-footer p {
+footer px {
     text-align: center;
-    font-size: 12px;
 }
