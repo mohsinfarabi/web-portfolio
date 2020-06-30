@@ -59,7 +59,7 @@ section {
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
     height: 80%;
-    background-color: white;
+    background-image: white;
 }
 
 .experience-area {
@@ -72,6 +72,7 @@ section {
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightSalmon, tomato);
     border-image-slice: 1;
+    background-color: white;
 }
 
 #baby-web {
